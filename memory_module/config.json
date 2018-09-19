@@ -1,0 +1,49 @@
+{
+    "apkPath": [
+		"launcher_20802355.apk"
+    ],
+    "caseArray": [
+
+		{
+            "model": "case_booster1",
+            "loopCount": "1"
+		},
+        {
+            "model": "case_booster1",
+            "loopCount": "1"
+        },
+		{
+            "model": "case_booster2",
+            "loopCount": "1"
+        },
+		{
+            "model": "case_booster2",
+            "loopCount": "1"
+		},
+		{
+            "model": "case_searcher1",
+            "loopCount": "1"
+        },
+		{
+            "model": "case_searcher1",
+            "loopCount": "1"
+		},
+		{
+            "model": "case_searcher2",
+            "loopCount": "1"
+        },
+		{
+            "model": "case_searcher2",
+            "loopCount": "1"
+		},
+		{
+            "model": "case_searcher3",
+            "loopCount": "1"
+        },
+		{
+            "model": "case_searcher3",
+            "loopCount": "1"
+		}
+    ],
+    "Runninginterval": "10"
+}

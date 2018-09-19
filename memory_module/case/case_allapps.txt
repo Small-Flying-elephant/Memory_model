@@ -1,0 +1,13 @@
+#点击allapps ----点击搜索----back2次----右滑，，左滑---退出
+home(2)
+back(1)
+click(550,1630,2)
+click(656,160,5)
+back(1)
+back(1)
+leftslide(999,665,95,665,2)
+leftslide(999,665,95,665,2)
+rightslide(95,684,940,684,2)
+rightslide(95,684,940,684,2)
+home(2)
+back(1)

@@ -1,0 +1,12 @@
+#主题---壁纸---输入法---锁屏---我的---全点一遍
+home(1)
+back(1)
+click(930,980,5)
+click(970,1700,5)
+click(760,1700,5)
+click(320,1700,5)
+wallpaper_free_download(6)
+click(550,1700,5)
+back(1)
+home(1)
+back(1)
